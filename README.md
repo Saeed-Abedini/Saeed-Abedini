@@ -4,7 +4,7 @@
 
 <div align="center">
   <p align="center">
-  Hi, I'm Saeed Abedini , I'm Front-End Developer In Iran 
+  Hi, I'm Saeed Abedini , I'm Front-End Developer
 </p>
 
   <a href="mailto:SaeedAbedini1999@gmail.com" target="_blank">
